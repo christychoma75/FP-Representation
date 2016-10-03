@@ -206,5 +206,6 @@ int addVals(int source1, int source2) {
 
   ret = frac + (exp << 7);
 
+  printf("ret = %d\n", ret);
   return ret;
 }

@@ -1,0 +1,52 @@
+Testing computeFP:
+Incorrect results for input 20.125000000000
+	Returned: 0x9a0
+	Expected: 0x9a1
+Incorrect results for input 31488.000000000000
+	Returned: 0xef5
+	Expected: 0xef6
+Incorrect results for input 448.000000000000
+	Returned: 0xbdf
+	Expected: 0xbe0
+Incorrect results for input 0.105469003320
+	Returned: 0x9d8
+	Expected: 0x5d8
+Incorrect results for input 0.600000023842
+	Returned: 0x819
+	Expected: 0x719
+- 5 errors found
+Testing getFP:
+Incorrect results for input 0x4e8
+	Returned: 1256.000000000000
+	Expected: 0.028320312500
+Incorrect results for input 0x854
+	Returned: 2132.000000000000
+	Expected: 3.312500000000
+Incorrect results for input 0x347
+	Returned: 839.000000000000
+	Expected: 0.003036499023
+Incorrect results for input 0x578
+	Returned: 1400.000000000000
+	Expected: 0.060546875000
+Incorrect results for input 0x57b
+	Returned: 1403.000000000000
+	Expected: 0.061279296875
+Incorrect results for input 0xf7f
+	Returned: 3967.000000000000
+	Expected: 65280.000000000000
+Incorrect results for input 0xe7f
+	Returned: 3711.000000000000
+	Expected: 16320.000000000000
+Incorrect results for input 0xedf
+	Returned: 3807.000000000000
+	Expected: 28544.000000000000
+Incorrect results for input 0xd54
+	Returned: 3412.000000000000
+	Expected: 3392.000000000000
+Incorrect results for input 0x16a8
+	Returned: 5800.000000000000
+	Expected: 0.328125000000
+Incorrect results for input 0xdc
+	Returned: 220.000000000000
+	Expected: 0.000104904175
+- 11 errors found

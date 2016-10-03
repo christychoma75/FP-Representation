@@ -1,6 +1,6 @@
-x = 15.25
+x = 0.26
 print x
-y = 0.26
+y = 15.25
 print y
 a = x + y
 print a

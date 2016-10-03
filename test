@@ -1,0 +1,8 @@
+x = 164
+print x
+y = 4.5
+print y
+z = x + y
+print z
+z = x * y
+print z
